@@ -60,8 +60,12 @@ npm start
 ---
 
 ## 📸 Screenshots
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/0cbe470d-c7bc-40a1-ad71-ce6511c01b9f" />
 
 <img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/59d6abdf-8906-48e4-8f6b-dafbafdbe186" />
+
+<img width="861" height="646" alt="image" src="https://github.com/user-attachments/assets/8aaa6a6a-dc74-4bb0-9c27-80ad0282534b" />
+
 
 ---
 
